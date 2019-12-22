@@ -10,4 +10,7 @@ public class Constants{
     public final static int kDriveRightMaster = 14;
     public final static int kDriveRightSlave = 15;
 
+    public final static int kShifter = 0;
+    public final static double kLooperDt = 0.01;
+
 }
